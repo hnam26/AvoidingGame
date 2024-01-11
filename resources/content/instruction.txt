@@ -1,0 +1,6 @@
+5
+You need to use your right-clicked
+to control the character and space button 
+to surf a short distance.
+Try to avoid all the object that chasing 
+you and survive the longest time.
